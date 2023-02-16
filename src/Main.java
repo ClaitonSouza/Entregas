@@ -1,6 +1,6 @@
 
 
-/* Projeto simples de calculo medio de rendimentos por hora e entregas feitas.
+/* ******Projeto simples de calculo medio de rendimentos por hora e entregas feitas.
 
  Roadmap
 
@@ -8,11 +8,11 @@
  app com um bonito front end, com o intuito de ajudar os entregadore a organizar
  seus rendimentos.
  Por ser simples e utilizado como estudo em meu aprendizado em programacao
- espero que gostem */
-
+ espero que gostem ****** */
 
 import java.math.BigDecimal;
 import java.util.Scanner;
+
 public class Main {
 
     public static void main(String[] args) {
@@ -21,8 +21,7 @@ public class Main {
       double ganhosTotais;
       double entregasFeitas;
       double ganhosPorentregas;
-
-
+     
       double gorjeta;
       double gorjetaEntregas;
 
